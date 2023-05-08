@@ -1,6 +1,6 @@
 # SparkML Car Classifier
 
-This repository contains the code for a car classifier model using Apache Spark MLlib, implemented in a Google Colab Notebook. The aim of the project is to classify different car makes and models based on their features, such as engine size, fuel type, and price range, using machine learning algorithms available in the Spark MLlib library.
+This repository contains the code for a car classifier model using Apache Spark MLlib, implemented in a Google Colab Notebook. The aim of the project is to classify different car makes and models based on their features using machine learning algorithms available in the Spark MLlib library.
 
 ## Getting Started
 
